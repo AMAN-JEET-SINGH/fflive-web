@@ -1796,7 +1796,7 @@ export default function BattlePlayGamePage() {
               {/* Advertisement like screenshot */}
               </div>
 
-              {/* Other Battles */}}
+              {/* Other Battles */}
               {otherBattles.length > 0 && (
                 <div className="mt-6">
                   <h2 className="text-white text-xl font-bold mb-4">Other Battles</h2>

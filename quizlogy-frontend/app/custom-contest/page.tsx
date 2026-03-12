@@ -667,7 +667,7 @@ export default function CustomContestPage() {
           </div>
         </div>
 
-        {/* More Contests Section */}}
+        {/* More Contests Section */}
         <div className="bg-[#0D0009] px-5 py-6">
           <div className="max-w-md mx-auto">
             <div className="flex items-center justify-between mb-4">

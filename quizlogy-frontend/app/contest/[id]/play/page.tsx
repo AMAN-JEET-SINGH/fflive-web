@@ -1369,7 +1369,6 @@ export default function ContestPlayPage() {
             </>
           )}
         </div>
-        </div>
       </div>
       {/* <Footer /> */}
 

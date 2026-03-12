@@ -325,7 +325,7 @@ export default function IntroPage() {
       keywords="play quiz, quiz game, test knowledge, quiz questions, earn coins, quiz contest"
     />
 
-    {/* Question Card Component or Result Card - Fixed height to prevent layout shift */}}
+    {/* Question Card Component or Result Card - Fixed height to prevent layout shift */}
       {noQuestions ? (
         <div className="max-w-md mx-auto mb-8 mt-10 text-center">
           <button

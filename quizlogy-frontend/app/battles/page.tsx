@@ -242,7 +242,6 @@ export default function BattlesPage() {
           {/* Advertisement */}
           
         </div>
-        </div>
           <PlayGamesSection/>
         <Footer />
       </div>
